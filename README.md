@@ -39,8 +39,8 @@ All necessary UML documentation will be included in the `diagrams/` directory:
 - Class Diagram
 
 ## Technology Stack
-- **Language**: Java (or C++ alternative)
-- **Interface**: Command-Line Interface (CLI) [GUI optional]
+- **Language**: Java
+- **Interface**: Command-Line Interface (CLI)
 - **Version Control**: GitHub repository for collaborative development and contribution tracking
 
 ## Setup Instructions
@@ -53,8 +53,9 @@ All necessary UML documentation will be included in the `diagrams/` directory:
 
 2. Compile and run the program (Java):
    ```bash
-   javac src/*.java
-   java src.MovieTicketSystem
+   cd src
+   javac MovieTicketSystem.java
+   java MovieTicketSystem
    ```
 
 ## Team Members
