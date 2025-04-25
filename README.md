@@ -13,7 +13,7 @@ This project is developed as part of the final assignment for the Object-Oriente
 - **Book Tickets**: Select a movie and reserve available seats.
 - **Manage Bookings**: View and cancel your existing reservations.
 
-### Admin Features
+### Admin Features (pw: marvel123)
 - **Add Movies**: Insert new Marvel movie entries into the system.
 - **Update Listings**: Modify showtime or available seats for an existing movie.
 - **Remove Movies**: Delete movies from the system when necessary.
